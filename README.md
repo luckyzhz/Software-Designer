@@ -80,3 +80,10 @@
 
 * 录制真题讲解视频 😁
 
+
+
+## ⭐ Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/luckyzhz/Software-Designer.svg)](https://starchart.cc/luckyzhz/Software-Designer)
+
+
